@@ -1,5 +1,7 @@
 [
             {
+ "cls":"fa fa-th",
+}, {
                 "url": "https://github.com",
                 "cls":"fa fa-camera",
                 "name":"Git"
