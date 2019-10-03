@@ -1,7 +1,7 @@
 [
             {
             "url": "https://google.com",
-            "cls":"https://github.com/MounikaReddySadam/Json/blob/master/resources/Capture.PNG",
+           "cls":"Capture.PNG",
              "name":"btnIcon"
             }, {
                 "url": "https://github.com",
@@ -10,38 +10,37 @@
             },
             {
                 "url": "https://google.com",
-                "cls":"fa fa-th",
+                "cls":"Capture.PNG",
                 "name":"Google"
 
             },
             {
                 "url": "https://facebook.com",
-                "cls":"fa fa-home",
+               "cls":"Capture.PNG",
                 "name":"facebook"
 
             },
             {
                 "url": "https://gmail.com",
-                "cls":"fa fa-trash",
+               "cls":"Capture.PNG",
                 "name":"Trash"
 
             },
             {
                 "url": "https://w3schools.com",
-                "cls":"fa fa-folder",
+               "cls":"Capture.PNG",
                 "name":"Folder"
 
             },
             {
                 "url": "https://github.com",
-                "cls":"fa fa-close",
+                "cls":"Capture.PNG",
                 "name":"Folder"
 
             },{
                 "url": "https://google.com",
-                "cls":"fa fa-th",
+               "cls":"Capture.PNG",
                 "name":"Google"
 
             }
         ]
-    
