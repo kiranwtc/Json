@@ -37,6 +37,11 @@
                 "cls":"fa fa-close",
                 "name":"Folder"
 
-            }
+            },{
+                "url": "https://google.com",
+                "cls":"fa fa-th",
+                "name":"Google"
+
+            },
         ]
     
