@@ -1,45 +1,45 @@
 [
             {
             "url": "https://google.com",
-           "cls":"WalkintreeIcon.svg",
+           "cls":"WalkingtreeIcon.svg",
              "name":"btnIcon"
             }, {
                 "url": "https://github.com",
-                "cls":"WalkintreeIcon.svg",
+                "cls":"WalkingtreeIcon.svg",
                 "name":"Git"
             },
             {
                 "url": "https://google.com",
-               "cls":"WalkintreeIcon.svg",
+               "cls":"WalkingtreeIcon.svg",
                 "name":"Google"
 
             },
             {
                 "url": "https://facebook.com",
-               "cls":"WalkintreeIcon.svg",
+               "cls":"WalkingtreeIcon.svg",
                 "name":"facebook"
 
             },
             {
                 "url": "https://gmail.com",
-               "cls":"WalkintreeIcon.svg",
+               "cls":"WalkingtreeIcon.svg",
                 "name":"Trash"
 
             },
             {
                 "url": "https://w3schools.com",
-               "cls":"WalkintreeIcon.svg",
+               "cls":"WalkingtreeIcon.svg",
                 "name":"Folder"
 
             },
             {
                 "url": "https://github.com",
-                "cls":"WalkintreeIcon.svg",
+                "cls":"WalkingtreeIcon.svg",
                 "name":"Folder"
 
             },{
                 "url": "https://google.com",
-               "cls":"WalkintreeIcon.svg",
+               "cls":"WalkingtreeIcon.svg",
                 "name":"Google"
 
             }
