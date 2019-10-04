@@ -1,45 +1,45 @@
 [
             {
             "url": "https://google.com",
-           "cls":"Capture.PNG",
+           "cls":"WalkintreeIcon.svg",
              "name":"btnIcon"
             }, {
                 "url": "https://github.com",
-                "cls":"Capture.PNG",
+                "cls":"WalkintreeIcon.svg",
                 "name":"Git"
             },
             {
                 "url": "https://google.com",
-                "cls":"Capture.PNG",
+               "cls":"WalkintreeIcon.svg",
                 "name":"Google"
 
             },
             {
                 "url": "https://facebook.com",
-               "cls":"Capture.PNG",
+               "cls":"WalkintreeIcon.svg",
                 "name":"facebook"
 
             },
             {
                 "url": "https://gmail.com",
-               "cls":"Capture.PNG",
+               "cls":"WalkintreeIcon.svg",
                 "name":"Trash"
 
             },
             {
                 "url": "https://w3schools.com",
-               "cls":"Capture.PNG",
+               "cls":"WalkintreeIcon.svg",
                 "name":"Folder"
 
             },
             {
                 "url": "https://github.com",
-                "cls":"Capture.PNG",
+                "cls":"WalkintreeIcon.svg",
                 "name":"Folder"
 
             },{
                 "url": "https://google.com",
-               "cls":"Capture.PNG",
+               "cls":"WalkintreeIcon.svg",
                 "name":"Google"
 
             }
